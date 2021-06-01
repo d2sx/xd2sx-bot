@@ -1,6 +1,5 @@
 <h1 align="center"><b> THE D2SX Public Bot  </b></h1>
 
-![logo](https://telegra.ph/file/569fd05fb4c587a360d38.jpg)
 
 
 
